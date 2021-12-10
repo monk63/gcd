@@ -1,0 +1,16 @@
+a, .nav-link{
+	color: #140152;
+}
+
+header .btn-primary{
+	border-radius: 3em;
+	padding-left: 8em;
+	padding-right: 8em;
+	background-color: #140152;
+	color: #F7FFF7;
+}
+
+header .btn-primary:hover{
+	background-color: #0D00A4;
+	color: #F7FFF7;
+}

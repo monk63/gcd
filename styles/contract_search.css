@@ -1,0 +1,35 @@
+#contract-stats-sectio {
+	height: 200px;
+}
+
+
+
+
+.fixed-head {
+	overflow: auto;
+	 height: 70%;
+	}
+
+.fixed-head thead tr th {
+	position: sticky;
+	 top: 0;
+	  z-index: 1;
+	 }
+
+/* Just common table stuff. Really. */
+table  {
+	border-collapse: collapse;
+	 width: 100%;
+	}
+
+th, td {
+	padding: 8px 16px;
+}
+
+th     {
+	background:#eee;
+ }
+
+ #table_actions_section .form_div  input{
+	 display: block;
+ }
