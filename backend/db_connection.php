@@ -3,6 +3,6 @@
 define("servername", "localhost");
 define("username", "root");
 define("password", "purple");
-define("dbname", "government_contracts");
+define("dbname", "Michaelofori@1234");
 
 ?>
